@@ -1,0 +1,13 @@
+Data visualization is the graphical representation of data and information, allowing viewers to understand trends, outliers, and patterns more easily. It helps in conveying complex data insights in a visual format such as charts, graphs, and maps, making the information more accessible and understandable.
+
+Common tools and techniques used in data visualization include:
+
+Charts and Graphs: Bar charts, line graphs, pie charts, histograms, and scatter plots are some of the most common ways to visualize data.
+
+Dashboards: These are interactive displays that combine multiple data visualizations on a single screen. Tools like Power BI, Tableau, and Google Data Studio are commonly used to create dashboards.
+
+Heatmaps: These visualize data values across a matrix with color gradients, often used for showing the density or intensity of data.
+
+Geospatial Visualizations: These include maps that visualize data in a geographic context, helping with location-based decision-making.
+
+Infographics: These are visual representations of information, data, or knowledge, combining text, visuals, and data in a concise, easy-to-understand format.
